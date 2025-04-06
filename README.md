@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Olá, meu nome é Pedro Henrique. 
 Atualmente, sou mestrando em Matemática na UFRJ na área de Sistemas Dinâmicos com ênfase em Teoria Ergódica. 
-Também possuo interesse nas áreas de Mercado Financeiro, Ciência de Dados e a eventual relação entre estes dois campos. 
+Também possuo interesse estudar sobre o Mercado Financeiro, Ciência de Dados e a eventual relação entre estes dois campos. 
 Além disso, tenho gosto pela Educação Matemática, tanto nos segmentos da Educação Básica quanto no Ensino Superior.
