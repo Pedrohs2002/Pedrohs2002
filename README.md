@@ -23,5 +23,7 @@ Além disso, tenho gosto pela Educação Matemática, tanto nos segmentos da Edu
 ## Sobre mim
 
 📚 Fiz Iniciação Científica (I.C.) na área de Sistemas Dinâmicos na UFRJ.
+
 📚 Participei de Projetos de Extensão na área de Educação Matemática na UFRJ.
+
 ⚡ Desenvolvi projetos de Análise de Dados para empresas de Marketing Digital. 
